@@ -1,3 +1,5 @@
 # TOC
 # experiment 11
 <img width="753" alt="exp 11" src="https://user-images.githubusercontent.com/112737459/215658198-5e3cf2bd-04fc-41e2-9b21-6068360e59a2.png">
+# experiment 12
+<img width="781" alt="exp  12" src="https://user-images.githubusercontent.com/112737459/215663087-7ebf0d00-9a9b-4e5d-9b40-9001d03f264d.png">
