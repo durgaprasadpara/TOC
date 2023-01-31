@@ -11,3 +11,5 @@
 <img width="760" alt="exp 15" src="https://user-images.githubusercontent.com/112737459/215664192-c92d2b73-a257-45c2-9877-1fd90870c1be.png">
 # experiment 17
 <img width="768" alt="exp 17" src="https://user-images.githubusercontent.com/112737459/215664717-e689aa7c-818f-4cce-8907-86d54e97bfad.png">
+# experiment 19
+<img width="769" alt="exp 19" src="https://user-images.githubusercontent.com/112737459/215665044-f9e4336a-1bcf-40dc-b546-f79dce820615.png">
