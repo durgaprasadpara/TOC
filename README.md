@@ -13,3 +13,7 @@
 <img width="768" alt="exp 17" src="https://user-images.githubusercontent.com/112737459/215664717-e689aa7c-818f-4cce-8907-86d54e97bfad.png">
 # experiment 19
 <img width="769" alt="exp 19" src="https://user-images.githubusercontent.com/112737459/215665044-f9e4336a-1bcf-40dc-b546-f79dce820615.png">
+<img width="769" alt="exp 20" src="https://user-images.githubusercontent.com/112737459/215665419-f2ba6438-dee6-4c1c-9450-c462c7fac23a.png">
+# experiment 20
+<img width="769" alt="exp 20" src="https://user-images.githubusercontent.com/112737459/215665419-f2ba6438-dee6-4c1c-9450-c462c7fac23a.png">
+
