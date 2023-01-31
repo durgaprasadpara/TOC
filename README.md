@@ -5,3 +5,5 @@
 <img width="781" alt="exp  12" src="https://user-images.githubusercontent.com/112737459/215663087-7ebf0d00-9a9b-4e5d-9b40-9001d03f264d.png">
 # experiment 13
 <img width="793" alt="exp 13" src="https://user-images.githubusercontent.com/112737459/215663532-96600d5d-aaa0-4853-bdd8-d4e9dbbb0c22.png">
+# experiment 14
+<img width="756" alt="exp 14" src="https://user-images.githubusercontent.com/112737459/215663843-58ba2bc1-3b83-4589-9e48-78bd2f6010db.png">
